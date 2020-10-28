@@ -1,6 +1,6 @@
 ### Hello here! ![Profile views](https://gpvc.arturio.dev/ReMazil)
 
-![1ATP.gif](https://github.com/ReMazil/ReMazil/blob/master/1ATP.gif)
+![1ATP.gif](https://github.com/ReMazil/ReMazil/raw/main/1ATP.gif)
 
 ## Ohhh look at this..
 
