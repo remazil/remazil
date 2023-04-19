@@ -1,4 +1,4 @@
-### Hello there 👋 ![Profile views](https://gpvc.arturio.dev/ReMazil)
+### Hello there 👋 ![Profile views](https://gpvc.arturio.dev/remazil)
 
 ![1ATP.gif](https://github.com/ReMazil/ReMazil/raw/main/1ATP.gif)
 
