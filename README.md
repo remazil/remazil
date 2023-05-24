@@ -10,6 +10,6 @@
 
 ## Also u' can catch me there
 - <a href="https://t.me/remazil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 /> Telegram - @remazil</a>
-- <a href="https://vk.com/remazil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png" width=16 height=16 /> VK - @remazil</a>
+- <a href="https://vk.com/remazil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/48px-VK_Compact_Logo_%282021-present%29.svg.png" width=16 height=16 /> VK - @remazil</a>
 
 
