@@ -11,5 +11,6 @@
 ## Also u' can catch me there
 - <a href="https://t.me/remazil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Telegram_2019_simple_logo.svg/240px-Telegram_2019_simple_logo.svg.png" width=12 height=12 /> Telegram - @remazil</a>
 - <a href="https://vk.com/remazil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/48px-VK_Compact_Logo_%282021-present%29.svg.png" width=12 height=12 /> VK - @remazil</a>
+- <a href="https://discord.com/users/383626259554631690/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Discord-logo-blurple.png" width=12 height=12 /> Discord - remazil#6611</a>
 
 
