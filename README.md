@@ -1,5 +1,6 @@
-## Hello there 👋 
-![Profile views](https://gpvc.arturio.dev/remazil)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=600&color=BDF7B3&vCenter=true&width=435&height=23&lines=Hello+there%F0%9F%91%8B;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D0%B8%D0%BA%F0%9F%91%8B;Hola%F0%9F%91%8B)
+
+![Profile views](https://komarev.com/ghpvc/?username=remazil)
 
 ![вотетаповорот.gif](https://github.com/remazil/remazil/raw/main/вотетаповорот.gif)
 
@@ -12,6 +13,6 @@
 ## Also u' can catch me there
 - <a href="https://t.me/remazil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Telegram_2019_simple_logo.svg/240px-Telegram_2019_simple_logo.svg.png" width=12 height=12 /> Telegram - @remazil</a>
 - <a href="https://vk.com/remazil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/48px-VK_Compact_Logo_%282021-present%29.svg.png" width=12 height=12 /> VK - @remazil</a>
-- <a href="https://discord.com/users/383626259554631690/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Discord-logo-blurple.png" width=16 height=12 /> Discord - remazil#6611</a>
+- <a href="https://discord.com/users/383626259554631690/"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" width=16 height=12 /> Discord - remazil</a>
 
 
