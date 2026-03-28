@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="auto" width="auto" src="https://github.com/remazil/remazil/blob/master/preview.jpg?raw=true"  />
+  <img height="auto" width="auto" src="https://github.com/remazil/remazil/blob/main/preview.jpg?raw=true"  />
 </div>
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&size=28&duration=3000&pause=600&weight=600&color=FFFFFF&vCenter=true&width=435&height=30&lines=Hay+there%F0%9F%91%8B;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D0%B8%D0%BA%F0%9F%91%8B;Hola%F0%9F%91%8B)
